@@ -6,7 +6,7 @@ A simple and interactive **quiz application** built with **Flutter**, demonstrat
 
 ## 📹 Demo  
 
-<video src="demo/quiz-demo.mp4" controls width="600"></video>
+<video src="demo/quiz-demo.mp4" controls width="1000"></video>
 
 ---
 
