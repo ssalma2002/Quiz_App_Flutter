@@ -6,7 +6,7 @@ A simple and interactive **quiz application** built with **Flutter**, demonstrat
 
 ## 📹 Demo  
 
-**🎬 [My Project Demo](./demo/quiz-demo.gif)**
+**🎬 [My Project Demo](./quiz-demo.gif)**
 
 ---
 
