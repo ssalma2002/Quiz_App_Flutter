@@ -6,8 +6,7 @@ A simple and interactive **quiz application** built with **Flutter**, demonstrat
 
 ## 📹 Demo  
 
-**🎬 [Watch the Demo Video (MP4, 12MB)](https://github.com/ssalma2002/Quiz_App_Flutter/tree/main/demo/quiz-demo.mp4)**
-
+**🎬 [My Project Demo](./demo/quiz-demo.gif)**
 
 ---
 
